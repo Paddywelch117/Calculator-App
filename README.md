@@ -23,11 +23,11 @@ A clean, intuitive calculator built with Python and Tkinter. It supports basic a
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Paddywelch117/-Calculator-App
+   git clone https://github.com/Paddywelch117/Calculator-App
 
 2. Navigate to the project folder:
     ```bash
-    cd Calculator.py
+    cd Calculator-App
 
 3. Run the calculator:
     ```bash
